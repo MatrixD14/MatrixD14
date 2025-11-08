@@ -22,9 +22,9 @@
 
 ---
 ## 🧾 alguns Ferramentas que usa
-![vscode](https://img.shields.io/badge/-VSCode-1f425f?style=for-the-badge&logo=VScode&logoColor=white)
-![it's_magic](https://img.shields.io/badge/-it's_magic-ffce00?style=for-the-badge&logo=it's_magic&logoColor=white)
-![Termux](https://img.shields.io/badge/-Termux-black?style=for-the-badge&logo=Termux&logoColor=white)
+[![vscode](https://img.shields.io/badge/-VSCode-1f425f?style=for-the-badge&logo=VScode&logoColor=white)](https://code.visualstudio.com/)
+[![it's_magic](https://img.shields.io/badge/-it's_magic-ffce00?style=for-the-badge&logo=it's_magic&logoColor=white)](https://play.google.com/store/apps/details?id=com.itsmagic.enginestable&hl=pt_BR)
+[![Termux](https://img.shields.io/badge/-Termux-black?style=for-the-badge&logo=Termux&logoColor=white)](https://github.com/termux/termux-app)
 
 ---
 ## 📊 Estatísticas
