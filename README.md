@@ -1,5 +1,5 @@
 ## Ola sou MatrixD14 👋
-## 📂 Projetos em destaque
+## 📂 Projetos
 - **[my_cdLiteDB](https://github.com/MatrixD14/my_cdLiteDB.git)** - Navega entre pasta + Editor de SQLite, Minimalista (focado nos devs mobile)
   
 - **[its-git-Magic](https://github.com/MatrixD14/its-git-Magic.git)** - Envia, Baixa e restaura path/file da its magic para o github (!!!so funciona dentro da engine its'Magic)
